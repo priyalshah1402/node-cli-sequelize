@@ -1,5 +1,5 @@
 module.exports = {
-    folders: ['Controllers', 'Routes', 'Models', 'uploads', 'Utils'],
+    folders: ['controllers', 'routes', 'models', 'uploads', 'Utils','config','helper'],
     files: [
         //database configuration
         {
